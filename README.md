@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Autonym2020
-- 👀 I’m interested in human computer interactions
+- 👀 I’m interested in human-computer interaction
 - 🌱 I’m currently learning neuro symbolic ai
 - 💞️ I’m looking to collaborate on emotions dataset collection
 - 📫 How to reach me info@autonymsystems.com
